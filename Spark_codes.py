@@ -1,4 +1,5 @@
 pip install findspark
+import findspark
 findspark.init()
 
 import pyspark
